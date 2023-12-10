@@ -1,0 +1,28 @@
+# 注册
+|image1|\ 前往\ `此处 <https://www.wemc.cc>`__\ 注册,\ **点击“立刻领取”后跳转到实例配置网页**\ \ |image2|\ 选择服务器类型选好后点击“提交订单”我们会要求您进行注册
+>
+在实例取名时如果被告知寻找管理员，请换个名字再试，可能是您取的名字被其他实例占用。
+
+--------------
+
+# 登录 注册好账号后需要在\ `WeMC -
+登录 <https://wemc.cc/auth/#/login>`__\ 内登录\ |image3| >
+请同意用户协议和隐私政策
+
+登入到主界面后，\ **先点击“立即签到”获得积分**\ ，然后点击立刻续期 >
+**100积分可以续期一天**
+
+# |image4|\ 实例配置
+现在就可以去管理您的实例了，先配置实例。\ **基岩版服务器选择运行环境为**\ ：ubuntu22.04
+实例类型为:minecraft/bedrock\ **Java版和部分基岩版核心选择运行环境为**\ ：\ **mcsm**-openjdk:17/16/8。实例类型为：minecraft/java
+> 不要选择openjdk!
+
+登入网址：\ `WeMC - 控制面板 <http://console.wemc.cc/>`__ >
+用户名在您的主页有写，密码在实例注册完成后会在页面内显示，如果您忘了，您也可以到用户中心内重置。
+
+下一步,请参阅\ `此处 <https://www.yuque.com/wechat-igmzo/wemcdocs/vpbas0wvtag0n09p>`__
+
+.. |image1| image:: https://cdn.nlark.com/yuque/0/2023/png/640735/1699191155198-a7e24173-82ca-4ed7-822e-cc63dacfc44a.png#averageHue=%23292d36&clientId=u92b99e05-94ad-4&from=paste&id=u0c1876f4&originHeight=930&originWidth=1206&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u0987bcb8-84e5-4454-b291-c3dbf563d92&title=
+.. |image2| image:: https://cdn.nlark.com/yuque/0/2023/png/640735/1699191188302-0d9da649-f2fc-48d6-9f73-ab77d9dc975e.png#averageHue=%23f6f5f5&clientId=u92b99e05-94ad-4&from=paste&id=udcf3c362&originHeight=934&originWidth=1866&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u6039767a-ccab-49ba-9820-f23c1773b6e&title=
+.. |image3| image:: https://cdn.nlark.com/yuque/0/2023/png/640735/1699191300152-a1f02985-d96e-43d4-bc45-69dc95a6d227.png#averageHue=%23f9f5f5&clientId=u92b99e05-94ad-4&from=paste&id=u323b855d&originHeight=440&originWidth=1297&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u93e9a234-ad1b-489f-8f69-8d65f6cd03d&title=
+.. |image4| image:: https://cdn.nlark.com/yuque/0/2023/png/640735/1699191350733-95c38c96-9076-44cf-82a1-3929b545a310.png#averageHue=%23f9f8f8&clientId=u92b99e05-94ad-4&from=paste&id=htFTk&originHeight=935&originWidth=1884&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=ud357fa52-d711-4717-88c2-77b14ad5122&title=
